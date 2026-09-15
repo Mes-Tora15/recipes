@@ -5,7 +5,7 @@
 - Coriander
 - Red Onion
 - Lemon juice
-Lime juice
+- Lime juice
 - Salt
 
 ## Instructions 
