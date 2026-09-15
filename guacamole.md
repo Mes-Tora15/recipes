@@ -5,6 +5,7 @@
 - Coriander
 - Red Onion
 - Lemon juice
+Lime juice
 - Salt
 
 ## Instructions 
@@ -12,6 +13,6 @@
 
 2. Finely chop the coriander and red onion
 
-3. Add salt and lemon juice to taste  
+3. Add salt, lime and lemon juice to taste  
 
 4. Enjoy!
